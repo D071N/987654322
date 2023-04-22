@@ -1,4 +1,13 @@
-# 987654322
+
+Debain, Ubuntu:
+sudo apt-get install git -y
+sudo apt-get install golang -y
+sudo apt-get install perl -y
+sudo apt-get install python3 -y
+sudo apt-get install python2 -y
+sudo apt-get install python3-pip -y
+sudo apt-get install nodejs -y
+sudo apt-get install npm -y
 
 CentOS:
 yum install git -y
@@ -10,20 +19,9 @@ yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
 
-Debain, Ubuntu:
-sudo apt-get install git -y &&
-sudo apt-get install golang -y &&
-sudo apt-get install perl -y &&
-sudo apt-get install python3 -y &&
-sudo apt-get install python2 -y &&
-sudo apt-get install python3-pip -y &&
-sudo apt-get install nodejs -y &&
-sudo apt-get install npm -y &&
-
 How to use: 
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
-
 
 npm i requests
 npm i https-proxy-agent
